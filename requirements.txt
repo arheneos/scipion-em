@@ -1,4 +1,3 @@
-scipion-pyworkflow>=3.11.2 # debug_mode changes
 biopython==1.86; python_version >= '3.8' # up to date on 11-2023
 tifffile==2023.7.10; python_version == '3.8'
 tifffile; python_version >= '3.9' # up to date on 11-2023
