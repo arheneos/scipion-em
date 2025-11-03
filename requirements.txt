@@ -4,4 +4,3 @@ emtable>=0.0.14 # up to date on 11-2023
 mrcfile<=1.4.3
 scipy; python_version >= '3.12' #  up to date on 11-2023
 scikit-image; python_version >= '3.10'
-metadata-viewer>=2.5
